@@ -1,10 +1,10 @@
 /*
- * @Description: None
+ * @Description: Sleep
  * @version: V1.0.0
- * @Author: None
+ * @Author: LILYGO_L
  * @Date: 2024-03-11 10:05:32
  * @LastEditors: LILYGO_L
- * @LastEditTime: 2024-04-05 15:31:55
+ * @LastEditTime: 2024-05-29 10:37:55
  * @License: GPL 3.0
  */
 #include "Arduino.h"
