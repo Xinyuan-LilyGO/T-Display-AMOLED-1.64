@@ -4,7 +4,7 @@
  * @Author: LILYGO_L
  * @Date: 2023-09-11 16:13:14
  * @LastEditors: LILYGO_L
- * @LastEditTime: 2024-05-29 10:14:54
+ * @LastEditTime: 2024-05-29 10:21:05
  * @License: GPL 3.0
 -->
 <h1 align = "center">T-Display-AMOLED-1.64</h1>
@@ -188,8 +188,8 @@ T-Display-AMOLED-1.64是一款基于ESP32S3开发的板载高清AMOLED屏幕的�
 ### 功耗
 | Firmware | Program| Description | Picture |
 | ------  | ------  | ------ | ------ | 
-| `[T-Display-AMOLED-1.64_V1.0][Light_Sleep_Wake_Up]_firmware_V1.0.0.bin` | `Light Sleep Wake Up` | 功耗: 254.5uA | <p align="center" width="5%"> <img src="image/13.jpg" alt="example"> </p> |
-| `[T-Display-AMOLED-1.64_V1.0][Deep_Sleep_Wake_Up]_firmware_V1.0.0.bin` | `Deep Sleep Wake Up` | 功耗: 2259.7uA |<p align="center" width="5%"> <img src="image/12.jpg" alt="example"> </p> |
+| `[T-Display-AMOLED-1.64_V1.0][Light_Sleep_Wake_Up]_firmware_V1.0.0.bin` | `Light Sleep Wake Up` | 功耗: 254.5uA | <p align="center" width="100%"> <img src="image/13.jpg" alt="example" width="50%"> </p> |
+| `[T-Display-AMOLED-1.64_V1.0][Deep_Sleep_Wake_Up]_firmware_V1.0.0.bin` | `Deep Sleep Wake Up` | 功耗: 2259.7uA |<p align="center" width="100%"> <img src="image/12.jpg" alt="example" width="50%"> </p> |
 
 ## 常见问题
 
