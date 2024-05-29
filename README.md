@@ -4,7 +4,7 @@
  * @Author: LILYGO_L
  * @Date: 2023-09-11 16:13:14
  * @LastEditors: LILYGO_L
- * @LastEditTime: 2024-05-29 10:22:46
+ * @LastEditTime: 2024-05-29 11:47:01
  * @License: GPL 3.0
 -->
 <h1 align = "center">T-Display-AMOLED-1.64</h1>
@@ -169,7 +169,6 @@ The T-Display-AMOLED-1.64 is a development board featuring a high-definition AMO
 | RST         | IO8       |
 | SDA         | IO7       |
 | SCL         | IO6       |
-| SCLK         | IO12       |
 
 | Power Chip Pin  | ESP32S3 Pin|
 | :------------------: | :------------------:|
